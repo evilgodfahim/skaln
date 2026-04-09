@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from Samakal]]></description>
         <link>https://samakal.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 22:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 23:40:28 GMT</lastBuildDate>
         <atom:link href="https://samakal.com/latest/news" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 22:46:37 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 23:40:28 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[ইসরায়েল ‘মানবতার জন্য অভিশাপ’: পাকিস্তানের প্রতিরক্ষামন্ত্রী]]></title>
+            <description><![CDATA[ইসরায়েল ‘মানবতার জন্য অভিশাপ’ বলে মন্তব্য করেছেন পাকিস্তানের প্রতিরক্ষামন্ত্রী খাজা আসিফ। সামাজিক যোগাযোগ মাধ্যমে দেওয়া এক পোস্টে তিনি এ মন্তব্য করেন।]]></description>
+            <link>https://samakal.com/international/article/346565/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2-%E2%80%98%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%AA%E2%80%99:-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80</link>
+            <guid isPermaLink="true">https://samakal.com/international/article/346565/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2-%E2%80%98%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%AA%E2%80%99:-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80</guid>
+            <dc:creator><![CDATA[বিশ্ব]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 05:08:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[হামলায় আহত ইরানের সাবেক পররাষ্ট্রমন্ত্রী কামাল খারাজি মারা গেছেন]]></title>
             <description><![CDATA[যুক্তরাষ্ট্র ও ইসরায়েলের বিমান হামলায় গুরুতর আহত ইরানের ফরেন রিলেশনস কাউন্সিলের প্রধান কামাল খারাজি মারা গেছেন। দেশটির রাষ্ট্রীয় বার্তা সংস্থা ইরনা এই তথ্য জানিয়েছে।]]></description>
@@ -4001,14 +4009,6 @@
             <guid isPermaLink="true">https://samakal.com/opinion/article/345916/%E2%80%98%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F-%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9C%E2%80%99-%E0%A6%B9%E0%A7%9F%E0%A7%87-%E0%A6%93%E0%A6%A0%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%C2%A0</guid>
             <dc:creator><![CDATA[মতামত]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 08:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ন্যায়সংগত যুদ্ধ বলে কিছু আছে?]]></title>
-            <description><![CDATA[পৃথিবীতে ঠিক কবে প্রথম যুদ্ধ হয়েছিল– নির্ণয় করা কঠিন। তবে প্রাগৈতিহাসিক যুগে, যখন মানুষ ছোট ছোট গোষ্ঠীতে বসবাস করত, তখন থেকেই খাদ্য, জমি বা সম্পদের জন্য সংঘর্ষ হতো। তবে সেগুলো সবসময় সংগঠিত ‘যুদ্ধ’ ছিল না। সংগঠিত যুদ্ধের প্রমাণ পাওয়া যায় প্রাচীন সভ্যতাগুলোর সময় থেকে, প্রায় পাঁচ হাজার বছর আগে।]]></description>
-            <link>https://samakal.com/opinion/article/345915/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%86%E0%A6%9B%E0%A7%87-</link>
-            <guid isPermaLink="true">https://samakal.com/opinion/article/345915/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%86%E0%A6%9B%E0%A7%87-</guid>
-            <dc:creator><![CDATA[মতামত]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 08:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
