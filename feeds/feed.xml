@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from Samakal]]></description>
         <link>https://samakal.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 22:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 23:50:40 GMT</lastBuildDate>
         <atom:link href="https://samakal.com/latest/news" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 22:49:55 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 23:50:40 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[তিন জেলায় স্কুলছাত্রসহ ৩ জনকে পিটিয়ে হত্যা]]></title>
+            <description><![CDATA[দেশের তিন জেলায় তিনজনকে পিটিয়ে হত্যার অভিযোগ উঠেছে। এর মধ্যে ফরিদপুরে ট্রাকচালক, ময়মনসিংহে স্কুলছাত্র এবং শরীয়তপুরে চোর সন্দেহে পিটুনিতে এক যুবক নিহত হয়েছেন। এ ছাড়া পাঁচ জেলায় পাঁচজনকে হত্যার অভিযোগ উঠেছে; তিন স্থানে উদ্ধার করা হয়েছে পুলিশের নারী কনস্টেবলসহ চারজনের মরদেহ।]]></description>
+            <link>https://samakal.com/whole-country/article/350027/%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A7%A9-%E0%A6%9C%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE</link>
+            <guid isPermaLink="true">https://samakal.com/whole-country/article/350027/%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A7%A9-%E0%A6%9C%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE</guid>
+            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[চোখের আঘাত লুকাতে শিশুকে হত্যা করে প্রতিবেশী নারী]]></title>
             <description><![CDATA[কুড়িগ্রামের চিলমারীতে দুই বছরের শিশু আয়শা খাতুন হত্যাকাণ্ডে প্রতিবেশী কহিনুর বেগম কনিকাকে (২৬) গ্রেপ্তারের পর বেরিয়ে এসেছে শিউরে ওঠার মতো তথ্য। নিষ্পাপ শিশুটিকে ঘিরে ঘটে যাওয়া নির্মম ঘটনায় পুরো এলাকায় দেখা দিয়েছে শোক ও ক্ষোভ।]]></description>
@@ -3999,14 +4007,6 @@
             <guid isPermaLink="true">https://samakal.com/bangladesh/article/349319/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%A8%E0%A7%AC%E0%A7%A8-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A6%A8%E0%A6%A6-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4</guid>
             <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 22:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ব্যবহার নিরুৎসাহিত করতে তামাকে কর বাড়বে: পরিকল্পনা প্রতিমন্ত্রী]]></title>
-            <description><![CDATA[উন্নয়ন প্রকল্পে বিদেশি ঋণের ওপর নির্ভরতা কমিয়ে নিজস্ব অর্থায়ন জোরদার করতে অভ্যন্তরীণ রাজস্ব আদায় বাড়ানোর পরিকল্পনা করছে সরকার। এ লক্ষ্যেই তামাক পণ্যের দাম ও কর বাড়ানো হবে বলে জানিয়েছেন পরিকল্পনা প্রতিমন্ত্রী মো. জোনায়েদ আব্দুর রহিম সাকি।]]></description>
-            <link>https://samakal.com/bangladesh/article/349318/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A7%8E%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%AC%E0%A7%87:-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%C2%A0</link>
-            <guid isPermaLink="true">https://samakal.com/bangladesh/article/349318/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A7%8E%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%AC%E0%A7%87:-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%C2%A0</guid>
-            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 22:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
