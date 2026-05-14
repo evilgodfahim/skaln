@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from Samakal]]></description>
         <link>https://samakal.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 22:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 00:04:26 GMT</lastBuildDate>
         <atom:link href="https://samakal.com/latest/news" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 22:16:30 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 00:04:26 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[পদ্মা ব্যারাজে উপকৃত হবে ২৪ জেলার ৭ কোটি মানুষ]]></title>
+            <description><![CDATA[আলোচিত পদ্মা ব্যারাজ প্রকল্প অনুমোদন করেছে জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি (একনেক)। আগামী মাসে প্রকল্পের নির্মাণকাজ শুরু হবে। ২০৩৩ সালের মধ্যে প্রকল্পের কাজ শেষ করার কথা রয়েছে। এ প্রকল্পের ফলে সরাসরি উপকার পাবে দেশের ২৪ জেলার প্রায় সাত কোটি মানুষ।]]></description>
+            <link>https://samakal.com/bangladesh/article/351930/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A7%A8%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A7%AD-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7</link>
+            <guid isPermaLink="true">https://samakal.com/bangladesh/article/351930/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A7%A8%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A7%AD-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7</guid>
+            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[স্থানীয় নির্বাচন বিধিমালার তুলনামূলক রূপরেখা তৈরির নির্দেশ ইসির]]></title>
             <description><![CDATA[স্থানীয় সরকার নির্বাচনের প্রচলিত নিয়মকানুন পরিমার্জনে কাজ শুরু করেছে নির্বাচন কমিশন (ইসি)। দেশের সর্বস্তরের স্থানীয় সরকার নির্বাচনে অভিন্ন ও যুগোপযোগী নিয়ম প্রবর্তনে বিভিন্ন বিধির তুলনামূলক চিত্র প্রস্তুত করতে কর্মকর্তাদের নির্দেশ দিয়েছে সংস্থাটি।]]></description>
@@ -3998,14 +4006,6 @@
             <guid isPermaLink="true">https://samakal.com/education/article/351202/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%93-%E0%A6%97%E0%A6%AC%E0%A7%87%E0%A6%B7%E0%A6%A3%E0%A6%BE%E0%A7%9F-%E0%A6%AF%E0%A7%8C%E0%A6%A5%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%93-%E0%A6%86%E0%A6%A8%E0%A6%B9%E0%A7%81%E0%A6%87-%E0%A6%A8%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF</guid>
             <dc:creator><![CDATA[শিক্ষা]]></dc:creator>
             <pubDate>Sat, 09 May 2026 22:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ইবিতে বরাদ্দ আসন না পেয়ে ৩ শিক্ষার্থীর প্রতিবাদ]]></title>
-            <description><![CDATA[কুষ্টিয়ায় অবস্থিত ইসলামী বিশ্ববিদ্যালয়ের (ইবি) শহীদ জিয়াউর রহমান হলে বৈধভাবে আসন বরাদ্দ পেলেও উঠতে পারেননি তিন শিক্ষার্থী। প্রতিবাদে তারা হল প্রভোস্টের কক্ষের সামনে বিছানা পেতে অবস্থান নিয়েছেন। আজ শনিবার বেলা সাড়ে তিনটার দিকে প্রভোস্টের কক্ষে তালা দিয়ে সামনেই বসে পড়েন তারা।]]></description>
-            <link>https://samakal.com/whole-country/article/351201/%E0%A6%87%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6-%E0%A6%86%E0%A6%B8%E0%A6%A8-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A7%A9-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/351201/%E0%A6%87%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6-%E0%A6%86%E0%A6%B8%E0%A6%A8-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A7%A9-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 22:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
