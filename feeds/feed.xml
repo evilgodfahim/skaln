@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from Samakal]]></description>
         <link>https://samakal.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 20:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 22:40:15 GMT</lastBuildDate>
         <atom:link href="https://samakal.com/latest/news" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 20:59:45 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 22:40:15 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[ভেনেজুয়েলায় জোড়া ভূমিকম্পে নিহত বেড়ে ১৮৮]]></title>
+            <description><![CDATA[দক্ষিণ আমেরিকার দেশ ভেনেজুয়েলায় আঘাত হানা পরপর দুটি শক্তিশালী ভূমিকম্পে অন্তত ১৮৮ জন নিহত হয়েছেন। আহত হয়েছেন অন্তত ১ হাজার ৫২০ জন। ধ্বংসস্তূপের নিচে এখনও প্রায় ২০০ জন আটকা পড়ে আছেন বলে জানিয়েছেন দেশটির জাতীয় পরিষদের সভাপতি হোর্হে রদ্রিগেজ।]]></description>
+            <link>https://samakal.com/international/article/359082/%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A7%8B%E0%A7%9C%E0%A6%BE-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A7%A7%E0%A7%AE%E0%A7%AE</link>
+            <guid isPermaLink="true">https://samakal.com/international/article/359082/%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A7%8B%E0%A7%9C%E0%A6%BE-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A7%A7%E0%A7%AE%E0%A7%AE</guid>
+            <dc:creator><![CDATA[বিশ্ব]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 03:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[মাইকেল জ্যাকসন: রাজনীতির বাইরে থেকেও এক রাজনৈতিক কণ্ঠ]]></title>
             <description><![CDATA[২৫ জুন। পৃথিবীর কোটি মানুষের কাছে দিনটি শুধু একজন শিল্পীর মৃত্যুদিন নয়। এটি এমন এক কণ্ঠস্বরকে স্মরণ করার দিন, যিনি বিনোদনের মঞ্চকে মানবতা, প্রতিবাদ ও বিশ্ববিবেকের মঞ্চে পরিণত করেছিলেন। ২০০৯ সালের এই দিনে পৃথিবী হারিয়েছিল মাইকেল জ্যাকসনকে। কিন্তু তার কণ্ঠ, বার্তা ও প্রশ্ন আজও প্রতিধ্বনিত হয় যুদ্ধবিধ্বস্ত ভূখণ্ডে, ক্ষুধার্ত শিশুর চোখে, বন উজাড়ের বেদনায় এবং বৈষম্যে আক্রান্ত পৃথিবীর নানা প্রান্তে।]]></description>
@@ -3998,14 +4006,6 @@
             <guid isPermaLink="true">https://samakal.com/sports/article/358211/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A6%AE-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%87-%E0%A6%9C%E0%A7%9F-%E0%A6%9A%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8</guid>
             <dc:creator><![CDATA[খেলা]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ফিরছেন নেইমার, রাফিনিয়াকে নিয়ে শঙ্কা]]></title>
-            <description><![CDATA[চোটের কারণে বিশ্বকাপের প্রথম দুই ম্যাচে ব্রাজিলের হয়ে মাঠে নামতে পারেননি সেলেসাও দলের সবচেয়ে বড় তারকা নেইমার। তবে স্কটল্যান্ডের বিপক্ষে গ্রুপ পর্বের শেষ ম্যাচে সান্তোসের এই মিডফিল্ডার দলে ফিরছেন বলে নিশ্চিত করেছেন ব্রাজিল কোচ কার্লো আনচেলত্তি।]]></description>
-            <link>https://samakal.com/sports/article/358210/%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A7%87%E0%A6%87%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE</link>
-            <guid isPermaLink="true">https://samakal.com/sports/article/358210/%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A7%87%E0%A6%87%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE</guid>
-            <dc:creator><![CDATA[খেলা]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 09:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
