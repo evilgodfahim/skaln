@@ -4,15 +4,55 @@
         <description><![CDATA[Latest news from Samakal]]></description>
         <link>https://samakal.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 17:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 19:19:55 GMT</lastBuildDate>
         <atom:link href="https://samakal.com/latest/news" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 17:59:55 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 19:19:55 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[বিশ্বকাপ ফাইনাল দেখতে স্টেডিয়ামে ডোনাল্ড ট্রাম্প]]></title>
+            <description><![CDATA[২০২৬ বিশ্বকাপের ফাইনাল দেখতে স্টেডিয়ামে উপস্থিত হয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।]]></description>
+            <link>https://samakal.com/sports/article/363456/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%A1%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%A1-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA</link>
+            <guid isPermaLink="true">https://samakal.com/sports/article/363456/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%A1%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%A1-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA</guid>
+            <dc:creator><![CDATA[খেলা]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ফুটবল উন্মাদনায় সমর্থকদের উল্লাস]]></title>
+            <description><![CDATA[চারিদিকে বাঁশি আর ভুভুজেলার ধ্বনি, ক্ষণে ক্ষণে আতশবাজি; স্লোগানে, চিৎকারে আর হর্ষধ্বনিতে ঢাকা বিশ্ববিদ্যালয় এলাকা যেন ছিল উল্লাসের নৃত্যে উন্মাতাল।]]></description>
+            <link>https://samakal.com/capital/article/363455/%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8%C2%A0</link>
+            <guid isPermaLink="true">https://samakal.com/capital/article/363455/%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8%C2%A0</guid>
+            <dc:creator><![CDATA[রাজধানী]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ফাইনালে আর্জেন্টিনার একাদশে তিন পরিবর্তন, অপরিবর্তিত স্পেন]]></title>
+            <description><![CDATA[স্পেনের বিপক্ষে রাত ১টায় বিশ্বকাপের ফাইনাল খেলতে নামবে আর্জেন্টিনা। ওই ম্যাচের আগে দলটির কোচ লিওনেল স্কালোনি ইংল্যান্ডের বিপক্ষে সেমিফাইনালের ম্যাচের একাদশে তিন পরিবর্তন এনেছেন।]]></description>
+            <link>https://samakal.com/sports/article/363454/%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A6%B6%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%A8</link>
+            <guid isPermaLink="true">https://samakal.com/sports/article/363454/%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A6%B6%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%A8</guid>
+            <dc:creator><![CDATA[খেলা]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[হাতীবান্ধায় পুলিশকে অবরুদ্ধ করে আসামি ছিনতাই]]></title>
+            <description><![CDATA[লালমনিরহাটের হাতীবান্ধার টংভাঙ্গা ইউনিয়নের ভবানীপুর এলাকায় গত শনিবার সন্ধ্যায় মাদক মামলার এক আসামিকে ধরতে গিয়ে বিক্ষুব্ধ জনতার বাধার মুখে পড়ে পুলিশ। এক পর্যায়ে পুলিশ সদস্যদের অবরুদ্ধ করে আসামি হামিদুল ইসলামকে ছিনিয়ে নিয়ে গেছে।]]></description>
+            <link>https://samakal.com/whole-country/article/363453/%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87</link>
+            <guid isPermaLink="true">https://samakal.com/whole-country/article/363453/%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87</guid>
+            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[গণভোটের রায় বাস্তবায়নে ধানাইপানাই মানব না: বিরোধীদলীয় নেতা]]></title>
             <description><![CDATA[গণভোটের রায় ব্যর্থ হলে জনগণ গণতন্ত্র ও নির্বাচনী প্রতিষ্ঠানের প্রতি আস্থা হারিয়ে জনগণ সরকারকে ধিক্কার দেবে বলে মন্তব্য করেছেন বিরোধীদলীয় নেতা শফিকুর রহমান। তিনি বলেছেন, জনগণের ধিক্কারের পাত্র বিরোধীদল হতে চায় না। গণভোটের রায় বাস্তবায়নে ধানাইপানাই মানব না।]]></description>
             <link>https://samakal.com/politics/article/363452/%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC-%E0%A6%A8%E0%A6%BE:-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80%E0%A6%A6%E0%A6%B2%E0%A7%80%E0%A7%9F-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE</link>
             <guid isPermaLink="true">https://samakal.com/politics/article/363452/%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC-%E0%A6%A8%E0%A6%BE:-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80%E0%A6%A6%E0%A6%B2%E0%A7%80%E0%A7%9F-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE</guid>
+            <dc:creator><![CDATA[রাজনীতি]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 23:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[গণভোটের রায় বাস্তবায়নে ধানাইপানাই মানবো না: বিরোধীদলীয় নেতা]]></title>
+            <description><![CDATA[গণভোটের রায় ব্যর্থ হলে জনগণ গণতন্ত্র ও নির্বাচনী প্রতিষ্ঠানের প্রতি আস্থা হারিয়ে জনগণ সরকারকে ধিক্কার দেবে বলে মন্তব্য করেছেন বিরোধীদলীয় নেতা শফিকুর রহমান। তিনি বলেছেন, জনগণের ধিক্কারের পাত্র বিরোধীদল হতে চায় না। গণভোটের রায় বাস্তবায়নে ধানাইপানাই মানব না।]]></description>
+            <link>https://samakal.com/politics/article/363452/%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A7%8B-%E0%A6%A8%E0%A6%BE:-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80%E0%A6%A6%E0%A6%B2%E0%A7%80%E0%A7%9F-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE</link>
+            <guid isPermaLink="true">https://samakal.com/politics/article/363452/%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A7%8B-%E0%A6%A8%E0%A6%BE:-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80%E0%A6%A6%E0%A6%B2%E0%A7%80%E0%A7%9F-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE</guid>
             <dc:creator><![CDATA[রাজনীতি]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 23:42:00 GMT</pubDate>
         </item>
@@ -3968,46 +4008,6 @@
             <guid isPermaLink="true">https://samakal.com/sports/article/362838/%E0%A6%B0%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%A1-%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B2</guid>
             <dc:creator><![CDATA[খেলা]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[আর্জেন্টিনার জয়ের পর আনন্দমিছিল, ভিডিও করতে গিয়ে বিদ্যুৎস্পৃষ্টে যুবকের মৃত্যু]]></title>
-            <description><![CDATA[বিশ্বকাপ ফুটবলে আর্জেন্টিনার জয়ের আনন্দমিছিলের ভিডিও ধারণ করতে গিয়ে নেত্রকোনায় বিদ্যুৎস্পৃষ্ট হয়ে ভবনের ছাদ থেকে পড়ে এক যুবকের মৃত্যু হয়েছে। বুধবার রাত ৩টার দিকে শহরের ছোটবাজার এলাকার শহীদ মিনার মোড়ে এ দুর্ঘটনা ঘটে।]]></description>
-            <link>https://samakal.com/whole-country/article/362837/%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/362837/%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[পিকফোর্ডের কাছে ছিল আর্জেন্টিনাকে ঠেকানোর গোপন ছক, কিন্তু...]]></title>
-            <description><![CDATA[রুদ্ধশ্বাস সেমিফাইনালে ইংল্যান্ডকে ২-১ গোলে হারিয়ে টানা দ্বিতীয়বার ফাইনালের টিকিট নিশ্চিত করেছে আর্জেন্টিনা। এমন জয়ের পর আটলান্টায় বাঁধভাঙা উল্লাসে মাতেন আর্জেন্টাইন ফুটবলাররা। এমনকি ইংলিশ ফুটবলাররা মাঠ ছেড়ে যাওয়ার পরেও লিওনেল স্কালোনির শিষ্যরা দীর্ঘ সময় মাঠে থেকে উদযাপন করেন। এর মধ্যেই ঘটে আরেকটি চমকপ্রদ ঘটনা। মাঠেই ইংল্যান্ড গোলরক্ষক জর্ডান পিকফোর্ডের পানির বোতল পেয়ে যায় আর্জেন্টিনা শিবির। সেখানে মিলেছে আর্জেন্টিনাকে আটকে দেওয়ার একটি গোপন পরিকল্পনা!]]></description>
-            <link>https://samakal.com/sports/article/362836/%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A0%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8-%E0%A6%9B%E0%A6%95-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-</link>
-            <guid isPermaLink="true">https://samakal.com/sports/article/362836/%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A0%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8-%E0%A6%9B%E0%A6%95-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-</guid>
-            <dc:creator><![CDATA[খেলা]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[মাদকসেবনের প্রতিবাদ করায় বিএনপি নেতাকে ছুরিকাঘাতে হত্যা]]></title>
-            <description><![CDATA[নোয়াখালীর কবিরহাট উপজেলায় মাদকসেবনের প্রতিবাদ করায় মো. ফারুক ওরফে শহীদ (৫০) নামে এক বিএনপি নেতাকে ছুরিকাঘাতে হত্যার ঘটনা ঘটেছে। এ ঘটনায় অভিযুক্ত দুই যুবককে আটকের পর গণপিটুনি দিয়ে পুলিশে সোপর্দ করেছেন স্থানীয়রা।]]></description>
-            <link>https://samakal.com/whole-country/article/362835/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%9B%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/362835/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%9B%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ফিরে আসছে ২০১০-এর স্মৃতি]]></title>
-            <description><![CDATA[২০১০ সালের মতো এবারও স্পেনের বিশ্বকাপ সূচনাটা ভালো হয়নি। ১৬ বছর আগে সুইজারল্যান্ডের কাছে ১-০ গোলে হেরে বিশ্বকাপ শুরু করেছিলেন জাভি-ইনিয়েস্তারা। এবার কেপ ভার্দের মতো নবীন দলের বিপক্ষে গোলশূন্য ড্র করে শুরু করেছিলেন ইয়ামাল-ওয়াইরসাবালরা]]></description>
-            <link>https://samakal.com/sports/article/362834/%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%A6-%E0%A6%8F%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF</link>
-            <guid isPermaLink="true">https://samakal.com/sports/article/362834/%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%A6-%E0%A6%8F%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF</guid>
-            <dc:creator><![CDATA[খেলা]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[নিষিদ্ধ ব্যানারে ফিফার তদন্তের মুখে আর্জেন্টিনা?]]></title>
-            <description><![CDATA[ঐতিহাসিক এই জয়ের পর মাঠের বাইরেও নতুন এক বিতর্কে জড়িয়েছে বর্তমান বিশ্বচ্যাম্পিয়নরা। ম্যাচ শেষে ১৯৮২ সালের ফকল্যান্ড যুদ্ধের স্মৃতি উসকে দেওয়া একটি ব্যানার হাতে উদযাপন করতে দেখা গেছে]]></description>
-            <link>https://samakal.com/sports/article/362833/%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%A6%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE-</link>
-            <guid isPermaLink="true">https://samakal.com/sports/article/362833/%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%A6%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE-</guid>
-            <dc:creator><![CDATA[খেলা]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
