@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from Samakal]]></description>
         <link>https://samakal.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 22:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 23:31:58 GMT</lastBuildDate>
         <atom:link href="https://samakal.com/latest/news" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 22:32:38 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 23:31:58 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[লঘুচাপের প্রভাবে বৃষ্টির পূর্বাভাস, ৮ জেলায় বন্যার শঙ্কা]]></title>
+            <description><![CDATA[দক্ষিণ-পশ্চিম বঙ্গোপসাগর ও তৎসংলগ্ন উত্তর উড়িষ্যা উপকূলে একটি লঘুচাপ সৃষ্টি হয়েছে। এর প্রভাবে দেশের বিভিন্ন অঞ্চলে আগামী চার দিন বৃষ্টি অব্যাহত থাকতে পারে। কোথাও কোথাও মাঝারি ধরনের ভারী থেকে ভারী বর্ষণেরও পূর্বাভাস দিয়েছে আবহাওয়া অধিদপ্তর। এ ছাড়া আট জেলায় বন্যার আশঙ্কা দেখা দিয়েছে।]]></description>
+            <link>https://samakal.com/bangladesh/article/366805/%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B8-%E0%A7%AE-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE</link>
+            <guid isPermaLink="true">https://samakal.com/bangladesh/article/366805/%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B8-%E0%A7%AE-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE</guid>
+            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 05:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[তালাক দেওয়া পুত্রবধূকে ঘরে তোলায় দ্বন্দ্ব, ভাতিজাদের হামলায় চাচি নিহত]]></title>
             <description><![CDATA[কুষ্টিয়ার কুমারখালীতে তালাক দেওয়া পুত্রবধূকে ফের বাড়িতে তোলাকে কেন্দ্র করে দুই পক্ষের সংঘর্ষে আহত রাবেয়া খাতুন (৩৯) মারা গেছেন। শনিবার দুপুরে রাজশাহী মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় তাঁর মৃত্যু হয়।]]></description>
@@ -4001,14 +4009,6 @@
             <guid isPermaLink="true">https://samakal.com/whole-country/article/366190/%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A7%AC%E0%A7%AB</guid>
             <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 04:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[বিদ্যুতের ৭২ খুঁটি রেখেই সড়ক উন্নয়ন কাজ, ঝুঁকি নিয়ে যানবাহন চলাচল]]></title>
-            <description><![CDATA[রূপগঞ্জের মায়ারবাড়ি-ডাঙ্গা সংযোগ সড়কে দাঁড়িয়ে আছে ৩৩ কেভি ও ১১ কেভি বিদ্যুৎ লাইনের ৭২টি খুঁটি। প্রায় দুই বছর ধরে সড়ক ও জনপথ (সওজ) বিভাগ এবং পল্লী বিদ্যুৎ কর্তৃপক্ষের মধ্যে চিঠি চালাচালি হলেও খুঁটিগুলো অপসারণ শুরু হয়নি। আরসিসি ঢালাইয়ের কাজ শেষ পর্যায়ে পৌঁছালেও ঝুঁকিমুক্ত নয় সড়কটি। প্রতিদিনই সৃষ্টি হচ্ছে যানজট, ঘটছে দুর্ঘটনা এবং দুর্ভোগে পড়ছেন পথচারী ও যানবাহন চালকরা।]]></description>
-            <link>https://samakal.com/whole-country/article/366189/%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A7%AD%E0%A7%A8-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A7%9C%E0%A6%95-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/366189/%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A7%AD%E0%A7%A8-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A7%9C%E0%A6%95-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 03:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
