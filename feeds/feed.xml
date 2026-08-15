@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from Samakal]]></description>
         <link>https://samakal.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 02:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 03:41:48 GMT</lastBuildDate>
         <atom:link href="https://samakal.com/latest/news" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 02:54:22 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 03:41:48 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[আজও বন্ধ থাকছে অধিকাংশ কারখানা, শঙ্কিত উদ্যোক্তারা]]></title>
+            <description><![CDATA[দেশের অধিকাংশ ভারী শিল্পকারখানা আজ শনিবারও স্বাভাবিক উৎপাদনে যেতে পারছে না। কারখানা চালু রাখার জন্য প্রয়োজনীয় গ্যাস পাওয়া যাবে– এমন নিশ্চয়তা পাননি বলে জানিয়েছেন একাধিক শিল্প]]></description>
+            <link>https://samakal.com/bangladesh/article/367848/%E0%A6%86%E0%A6%9C%E0%A6%93-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%9B%E0%A7%87-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A4-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE</link>
+            <guid isPermaLink="true">https://samakal.com/bangladesh/article/367848/%E0%A6%86%E0%A6%9C%E0%A6%93-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%9B%E0%A7%87-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A4-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE</guid>
+            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ইন্দোনেশিয়ায় ৭.৭ মাত্রার ভূমিকম্পে নিহত ২, সুনামি সতর্কতা]]></title>
+            <description><![CDATA[ইন্দোনেশিয়ার পূর্বাঞ্চলে ৭ দশমিক ৭ মাত্রার শক্তিশালী ভূমিকম্পে অন্তত দুজন নিহত হয়েছেন। স্থানীয় সময় শনিবার ভোরে দেশটির ইস্ট নুসা তেনগারা প্রদেশের ফ্লোরেস দ্বীপের কাছে ভূমিকম্পটি আঘাত হানে। এতে বিভিন্ন এলাকায় ব্যাপক ক্ষয়ক্ষতি হয়েছে।]]></description>
+            <link>https://samakal.com/international/article/367847/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A7%AD-%E0%A7%AD-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%A8-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A4%E0%A6%BE</link>
+            <guid isPermaLink="true">https://samakal.com/international/article/367847/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A7%AD-%E0%A7%AD-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%A8-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A4%E0%A6%BE</guid>
+            <dc:creator><![CDATA[বিশ্ব]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বাংলাদেশের স্থপতিকে হত্যার ৫১ বছর]]></title>
+            <description><![CDATA[শোকাবহ ১৫ আগস্ট আজ। স্বাধীন বাংলাদেশের স্থপতি বঙ্গবন্ধু শেখ মুজিবুর রহমানের ৫১তম শাহাদাতবার্ষিকী। গত দুই বছরের মতো এবারও ভিন্ন প্রেক্ষাপটে এসেছে দিনটি। বঙ্গবন্ধুর প্রতি শ্রদ্ধা জানাতে আজ থাকছে না কোনো আনুষ্ঠানিকতা।]]></description>
+            <link>https://samakal.com/bangladesh/article/367846/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A7%AB%E0%A7%A7-%E0%A6%AC%E0%A6%9B%E0%A6%B0</link>
+            <guid isPermaLink="true">https://samakal.com/bangladesh/article/367846/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A7%AB%E0%A7%A7-%E0%A6%AC%E0%A6%9B%E0%A6%B0</guid>
+            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[২১৯ রানের লিড নিয়ে লাঞ্চে বাংলাদেশ]]></title>
+            <description><![CDATA[ডারউইন টেস্টের তৃতীয় দিনের প্রথম সেশনও নিজেদের করে নিয়েছে বাংলাদেশ। মিরাজের অপরাজিত ফিফটির সঙ্গে তাসকিনের ব্যাটিংয়ে লাঞ্চে যাওয়ার সময় ৮ উইকেটে ৪১৭ রান করেছে সফরকারীরা]]></description>
+            <link>https://samakal.com/sports/article/367840/%E0%A7%A8%E0%A7%A7%E0%A7%AF-%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A6%BF%E0%A6%A1-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6</link>
+            <guid isPermaLink="true">https://samakal.com/sports/article/367840/%E0%A7%A8%E0%A7%A7%E0%A7%AF-%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A6%BF%E0%A6%A1-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6</guid>
+            <dc:creator><![CDATA[খেলা]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[চার সমুদ্রবন্দরে আজও ৩ নম্বর সতর্কসংকেত]]></title>
+            <description><![CDATA[স্থল নিম্নচাপের প্রভাবে দেশের বিভিন্ন এলাকায় বৃষ্টি ও ভারী বর্ষণের সম্ভাবনা রয়েছে। একই সঙ্গে উপকূলীয় এলাকা ও উত্তর বঙ্গোপসাগরে ঝোড়ো হাওয়া বয়ে যেতে পারে। এ কারণে চট্টগ্রাম, কক্সবাজার, মোংলা ও পায়রা সমুদ্রবন্দরকে ৩ নম্বর স্থানীয় সতর্কসংকেত দেখিয়ে যেতে বলা হয়েছে। বাংলাদেশ আবহাওয়া অধিদপ্তর গতকাল শুক্রবার এ সতর্কবার্তা ও পূর্বাভাস দিয়েছে।]]></description>
+            <link>https://samakal.com/bangladesh/article/367838/%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%93-%E0%A7%A9-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4</link>
+            <guid isPermaLink="true">https://samakal.com/bangladesh/article/367838/%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%93-%E0%A7%A9-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4</guid>
+            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[দিনে গড়ে একজন খুচরা বিক্রেতা গ্রেপ্তার, ‘বড়’রা নিরাপদে]]></title>
+            <description><![CDATA[সিদ্ধিরগঞ্জের প্রায় প্রতিটি পাড়া-মহল্লার অলিগলিতে অবাধে মাদকদ্রব্য কেনাবেচা চলছে। সন্ধ্যার পর উঠতি বয়সীদের প্রকাশ্যেই মাদক কেনাবেচা করতে দেখা যায়। থানা-পুলিশও নিয়মিত মাদকবিরোধী]]></description>
+            <link>https://samakal.com/whole-country/article/367836/%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%96%E0%A7%81%E0%A6%9A%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E2%80%98%E0%A6%AC%E0%A7%9C%E2%80%99%E0%A6%B0%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A6%E0%A7%87</link>
+            <guid isPermaLink="true">https://samakal.com/whole-country/article/367836/%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%96%E0%A7%81%E0%A6%9A%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E2%80%98%E0%A6%AC%E0%A7%9C%E2%80%99%E0%A6%B0%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A6%E0%A7%87</guid>
+            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সিএনজিচালিত অটোর ভাড়া দ্বিগুণ, যাত্রীদের ক্ষোভ]]></title>
+            <description><![CDATA[নারায়ণগঞ্জের আড়াইহাজারে গ্যাসের সংকটে সিএনজিচালিত অটোরিকশা কমেছে সড়কে, আর সেই সুযোগে বেড়েছে ভাড়া। আড়াইহাজার-মদনপুরে, ভূলতা-বিশনন্দী আঞ্চলিক মহাসড়কে কয়েক দিন ধরে যাত্রীদের কাছ থেকে নির্ধারিত ভাড়ার প্রায় দ্বিগুণ নেওয়ার অভিযোগ উঠেছে।]]></description>
+            <link>https://samakal.com/whole-country/article/367835/%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A7%81%E0%A6%A3-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD</link>
+            <guid isPermaLink="true">https://samakal.com/whole-country/article/367835/%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A7%81%E0%A6%A3-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD</guid>
+            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পুলিশ আতঙ্কে ট্রলার থেকে ঝাঁপ, দুদিন পর মিলল লাশ]]></title>
+            <description><![CDATA[পুলিশ আতঙ্কে ট্রলার থেকে তুরাগ নদে ঝাঁপিয়ে পড়া মোয়াজ্জেম হোসেনের (৪৫) মরদেহ উদ্ধার করা হয়েছে। ঘটনার দুদিন পর গতকাল শুক্রবার সকালে গাজীপুরের কড্ডা এলাকায় ভেসে ওঠে তাঁর মরদেহ।]]></description>
+            <link>https://samakal.com/whole-country/article/367834/%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%86%E0%A6%A4%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%9D%E0%A6%BE%E0%A6%81%E0%A6%AA-%E0%A6%A6%E0%A7%81%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2-%E0%A6%B2%E0%A6%BE%E0%A6%B6</link>
+            <guid isPermaLink="true">https://samakal.com/whole-country/article/367834/%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%86%E0%A6%A4%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%9D%E0%A6%BE%E0%A6%81%E0%A6%AA-%E0%A6%A6%E0%A7%81%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2-%E0%A6%B2%E0%A6%BE%E0%A6%B6</guid>
+            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[নারীদের শ্লীলতাহানি, তরুণকে গুলি, শিশুর মাথায় পিস্তল]]></title>
+            <description><![CDATA[পটুয়াখালীর কলাপাড়ায় এক মালয়েশিয়া প্রবাসীর বাড়িতে ঢুকে সশস্ত্র ডাকাতেরা তাণ্ডব চালিয়েছে। তারা গৃহকর্তার ছেলের পায়ে গুলি করে, স্ত্রী ও পুত্রবধূকে বেধড়ক মারধর ও শ্লীলতাহানির চেষ্টা চালায়। পরে দুই বছরের শিশুর মাথায় পিস্তল ঠেকিয়ে স্বর্ণালংকার ও নগদ টাকাসহ মূল্যবান মালপত্র লুট করে নিয়ে যায়।]]></description>
+            <link>https://samakal.com/whole-country/article/367833/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%80%E0%A6%B2%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A5%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B2</link>
+            <guid isPermaLink="true">https://samakal.com/whole-country/article/367833/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%80%E0%A6%B2%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A5%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B2</guid>
+            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 08:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[বিদ্যুতের দাবিতে মোমবাতি  মিছিল জামায়াতের বিক্ষোভ সিপিবির]]></title>
             <description><![CDATA[লোডশেডিং, গ্যাস সংকটের প্রতিবাদে রাজধানীতে মোমবাতি মিছিল করেছে জামায়াতে ইসলামী। শুক্রবার সন্ধ্যায় রাজধানীর উত্তর বাড্ডায় বিদ্যুৎ সংকটের প্রতিবাদে এ মিছিলে করে দলটির ঢাকা মহানগর উত্তর শাখা।]]></description>
@@ -3935,78 +4007,6 @@
             <guid isPermaLink="true">https://samakal.com/bangladesh/article/367254/%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A8-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4</guid>
             <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 15:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[জলবায়ু পরিবর্তনের কারণে সবচেয়ে ঝুঁকিপূর্ণ অবস্থানে বাংলাদেশ: বন ও পরিবেশ প্রতিমন্ত্রী]]></title>
-            <description><![CDATA[বন ও পরিবেশ প্রতিমন্ত্রী ড. শেখ ফরিদুল ইসলাম এমপি বলেছেন, জলবায়ু পরিবর্তনের কারণে বাংলাদেশের তাপমাত্রা বাড়ছে। বাংলাদেশ সবচেয়ে ঝুঁকিপূর্ণ জায়গায় আছে। এ পরিস্থিতি মোকাবিলায় বেশি করে গাছ লাগানোর বিকল্প নেই। বৃক্ষরোপণের মাধ্যমে তাপমাত্রা কমানো, বৃষ্টির পরিমাণ বাড়ানো এবং পরিবেশের ভারসাম্য রক্ষা করা সম্ভব।]]></description>
-            <link>https://samakal.com/whole-country/article/367253/%E0%A6%9C%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A7%81-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6:-%E0%A6%AC%E0%A6%A8-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/367253/%E0%A6%9C%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A7%81-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6:-%E0%A6%AC%E0%A6%A8-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 15:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[কিডনি সুস্থ রাখতে মেনে চলুন ৭ নিয়ম]]></title>
-            <description><![CDATA[কিডনি মানবদেহের গুরুত্বপূর্ণ অংশ। শরীর থেকে বর্জ্য ও দূষিত পদার্থ ফিল্টারের মাধ্যমে বের করে দেওয়া, রক্তচাপ নিয়ন্ত্রণ করা, শরীরে পানির ভারসাম্য রক্ষা করা এবং রক্তকণিকা তৈরিতে সাহায্য করার মতো বহু জটিল কাজ নিখুঁতভাবে করে থাকে এই অঙ্গটি]]></description>
-            <link>https://samakal.com/lifestyle/article/367252/%E0%A6%95%E0%A6%BF%E0%A6%A1%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A7%81%E0%A6%A8-%E0%A7%AD-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE</link>
-            <guid isPermaLink="true">https://samakal.com/lifestyle/article/367252/%E0%A6%95%E0%A6%BF%E0%A6%A1%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A7%81%E0%A6%A8-%E0%A7%AD-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE</guid>
-            <dc:creator><![CDATA[লাইফস্টাইল]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[সাকিব ভালো খেলোয়াড়, কিন্তু পচে যাওয়া মানুষ: ডা. জাহেদ উর রহমান]]></title>
-            <description><![CDATA[সাকিব আল হাসান ভালো খেলোয়াড় হতে পারেন, কিন্তু তিনি একজন নষ্ট, পচে যাওয়া মানুষ—এমন মন্তব্য করেছেন প্রধানমন্ত্রীর তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা ডা. জাহেদ উর রহমান। মঙ্গলবার সচিবালয়ে সরকারের বিভিন্ন কার্যক্রমের অগ্রগতি নিয়ে আয়োজিত প্রেস ব্রিফিংয়ে তিনি এ মন্তব্য করেন তিনি।]]></description>
-            <link>https://samakal.com/bangladesh/article/367251/%E0%A6%B8%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AC-%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A7%9C-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%AA%E0%A6%9A%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7:-%E0%A6%A1%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%A6-%E0%A6%89%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8</link>
-            <guid isPermaLink="true">https://samakal.com/bangladesh/article/367251/%E0%A6%B8%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AC-%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A7%9C-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%AA%E0%A6%9A%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7:-%E0%A6%A1%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%A6-%E0%A6%89%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8</guid>
-            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[সিনেমায় অভিষেকের অপেক্ষায় রেহান]]></title>
-            <description><![CDATA[অভিনয়ের দুনিয়ায় ফ্যাশন মডেল ও অভিনেতা ফররুখ আহমেদ রেহানের পথচলা বেশি দিনের নয়। ‘আন্ধার’ সিনেমা দিয়ে চলচ্চিত্রে অভিষেক হতে যাচ্ছে তাঁর। বড় পর্দায় অভিষেক হতে যাওয়া রেহানও উচ্ছ্বাস প্রকাশ করেছেন সিনেমাটি নিয়ে।]]></description>
-            <link>https://samakal.com/entertainment/article/367250/%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%B7%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%A8</link>
-            <guid isPermaLink="true">https://samakal.com/entertainment/article/367250/%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%B7%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%A8</guid>
-            <dc:creator><![CDATA[বিনোদন]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ফিফা থেকে ইনফান্তিনোকে সরালে ভয়াবহ ভুল হবে, হুঁশিয়ারি ট্রাম্পের]]></title>
-            <description><![CDATA[বিশ্ব ফুটবলের নিয়ন্ত্রক সংস্থা ফিফার সভাপতি জিয়ান্তি ইনফান্তিনোর পাশে দাঁড়ালেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তিনি বলেছেন, ফিফা থেকে ইনফান্তিনোকে সরানো হলে সেটি ‘ভয়াবহ ভুল’ হবে।]]></description>
-            <link>https://samakal.com/international/article/367249/%E0%A6%AB%E0%A6%BF%E0%A6%AB%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%87%E0%A6%A8%E0%A6%AB%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%81%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0</link>
-            <guid isPermaLink="true">https://samakal.com/international/article/367249/%E0%A6%AB%E0%A6%BF%E0%A6%AB%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%87%E0%A6%A8%E0%A6%AB%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%81%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0</guid>
-            <dc:creator><![CDATA[বিশ্ব]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[জুলাই গণঅভ্যুত্থানের চেতনা ও রাষ্ট্র সংস্কারে প্রবাসীদের ঐক্যবদ্ধ হওয়ার আহ্বান]]></title>
-            <description><![CDATA[জুলাই গণঅভ্যুত্থানের চেতনা ধারণ করে বাংলাদেশের রাষ্ট্র সংস্কার, সাংস্কৃতিক পুনর্জাগরণ, অর্থনৈতিক ন্যায়বিচার ও প্রাতিষ্ঠানিক রূপান্তরের লক্ষ্যে নাগরিক প্ল্যাটফর্ম ও গবেষণা উদ্যোগ ‘সেন্টার ফর সোসাইটি অ্যান্ড কালচার’ (সিএসসি) আত্মপ্রকাশ করেছে।]]></description>
-            <link>https://samakal.com/probas/article/367248/%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%97%E0%A6%A3%E0%A6%85%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%90%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B9%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8</link>
-            <guid isPermaLink="true">https://samakal.com/probas/article/367248/%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%97%E0%A6%A3%E0%A6%85%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%90%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B9%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8</guid>
-            <dc:creator><![CDATA[প্রবাস]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[অপু বিশ্বাসসহ তিন দেশের শিল্পী নিয়ে ‘শিকার’ শুরু]]></title>
-            <description><![CDATA[একসময় ঈদের সিনেমা মানেই ছিল অপু বিশ্বাসের উপস্থিতি। দীর্ঘ অভিনয়জীবনে অসংখ্য ব্যবসাসফল সিনেমায় অভিনয় করে দর্শকের কাছে আলাদা জায়গা তৈরি করেছেন এই চিত্রনায়িকা। তবে এখন সময় বদলেছে। সিনেমার শুটিং নিয়ে ব্যস্ত থাকা অপু বিশ্বাস এখন সিনেমার শুটিং করেন কালেভদ্রে।]]></description>
-            <link>https://samakal.com/entertainment/article/367247/%E0%A6%85%E0%A6%AA%E0%A7%81-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E2%80%98%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81</link>
-            <guid isPermaLink="true">https://samakal.com/entertainment/article/367247/%E0%A6%85%E0%A6%AA%E0%A7%81-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E2%80%98%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81</guid>
-            <dc:creator><![CDATA[বিনোদন]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[এক গ্লাস ফলের রসে কমতে পারে বিষণ্ণতা]]></title>
-            <description><![CDATA[প্রতিদিন এক গ্লাস ফলের রস বা স্মুদি পান করা শরীরের পাশাপাশি মানসিক স্বাস্থ্যের জন্যও উপকারী হতে পারে। নতুন এক গবেষণায় দেখা গেছে, নিয়মিত ফলের রস বা স্মুদি পান করার সঙ্গে বিষণ্ণতা মাত্রা কমার সম্পর্ক রয়েছে।]]></description>
-            <link>https://samakal.com/lifestyle/article/367246/%E0%A6%8F%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%A3%E0%A7%8D%E0%A6%A3%E0%A6%A4%E0%A6%BE</link>
-            <guid isPermaLink="true">https://samakal.com/lifestyle/article/367246/%E0%A6%8F%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%A3%E0%A7%8D%E0%A6%A3%E0%A6%A4%E0%A6%BE</guid>
-            <dc:creator><![CDATA[লাইফস্টাইল]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[বাংলাদেশিকে ধরে নিয়ে যাওয়ায় দুই ভারতীয়কে আটক করল গ্রামবাসী]]></title>
-            <description><![CDATA[মেহেরপুরের সদর উপজেলার ইছাখালী সীমান্তে এক বাংলাদেশিকে ধরে নিয়ে যাওয়ার প্রতিবাদে দুই ভারতীয়কে আটক করে বিজিবির কাছে সোপর্দ করেছে স্থানীয়রা। মঙ্গলবার সকাল সাড়ে আটটার দিকে এ ঘটনা ঘটে।]]></description>
-            <link>https://samakal.com/whole-country/article/367245/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%95%E0%A6%B0%E0%A6%B2-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/367245/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%95%E0%A6%B0%E0%A6%B2-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
