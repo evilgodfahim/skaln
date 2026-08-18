@@ -4,10 +4,90 @@
         <description><![CDATA[Latest news from Samakal]]></description>
         <link>https://samakal.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 23:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 01:22:53 GMT</lastBuildDate>
         <atom:link href="https://samakal.com/latest/news" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 23:26:03 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 01:22:53 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[নবায়নযোগ্য জ্বালানির সুফল পেতে করণীয়]]></title>
+            <description><![CDATA[বাংলাদেশের জ্বালানি সংকট এখন শুধু বিদ্যুৎ উৎপাদন কমিয়ে দিচ্ছে না, দেশের অর্থনৈতিক স্থিতিশীলতারও জন্য অন্যতম বড় চ্যালেঞ্জ হয়ে উঠেছে। অন্যদিকে বিদ্যুৎ উৎপাদন বাড়াতে গত এক দশকে]]></description>
+            <link>https://samakal.com/opinion/article/368303/%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%AF-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AB%E0%A6%B2-%E0%A6%AA%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A7%80%E0%A7%9F</link>
+            <guid isPermaLink="true">https://samakal.com/opinion/article/368303/%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%AF-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AB%E0%A6%B2-%E0%A6%AA%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A7%80%E0%A7%9F</guid>
+            <dc:creator><![CDATA[মতামত]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 07:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্ববিদ্যালয়ে শিক্ষকতা ও গবেষণার ধারা আলাদা হোক]]></title>
+            <description><![CDATA[সম্প্রতি দেশের উচ্চ শিক্ষাপ্রতিষ্ঠানগুলোতে গবেষণা খাতের বরাদ্দ নিয়ে দুর্নীতি, অনিয়ম এবং ইনস্টিটিউটগুলোতে কাজ না করেই গবেষণা-ভাতা তোলার মতো নানা অভিযোগের সত্যতা পেয়েছে দুর্নীতি]]></description>
+            <link>https://samakal.com/opinion/article/368302/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%97%E0%A6%AC%E0%A7%87%E0%A6%B7%E0%A6%A3%E0%A6%BE%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A6%BE-%E0%A6%B9%E0%A7%8B%E0%A6%95</link>
+            <guid isPermaLink="true">https://samakal.com/opinion/article/368302/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%97%E0%A6%AC%E0%A7%87%E0%A6%B7%E0%A6%A3%E0%A6%BE%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A6%BE-%E0%A6%B9%E0%A7%8B%E0%A6%95</guid>
+            <dc:creator><![CDATA[মতামত]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 07:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জাহাজই ভাঙুক, নিরাপত্তা নহে]]></title>
+            <description><![CDATA[চট্টগ্রামের জাহাজ ভাঙা শিল্প আবারও প্রাণঘাতী দুর্ঘটনা প্রত্যক্ষ করিল। এইবারের ঘটনাস্থল সীতাকুণ্ডের ফেরদৌস স্টিল শিপ ব্রেকিং ইয়ার্ড। শুক্রবার সকালে উক্ত পুরোনো জাহাজ ভাঙার কারখানায় বিষাক্ত]]></description>
+            <link>https://samakal.com/opinion/article/368301/%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%81%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%B9%E0%A7%87</link>
+            <guid isPermaLink="true">https://samakal.com/opinion/article/368301/%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%81%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%B9%E0%A7%87</guid>
+            <dc:creator><![CDATA[মতামত]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 07:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ঢাকা-সিলেট মহাসড়কে দুর্ভোগ এবং উন্নত বিশ্বের শিক্ষা]]></title>
+            <description><![CDATA[সম্প্রতি আমার ছেলেকে নিয়ে ঢাকা থেকে সিলেটে সড়কপথে যাওয়ার সময় আবারও এক দীর্ঘ, ক্লান্তিকর ও হতাশাজনক অভিজ্ঞতার মুখোমুখি হলাম। প্রায় চার বছর আগে একই পথে যাতায়াত করতে গিয়ে]]></description>
+            <link>https://samakal.com/opinion/article/368300/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%8B%E0%A6%97-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE</link>
+            <guid isPermaLink="true">https://samakal.com/opinion/article/368300/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%8B%E0%A6%97-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE</guid>
+            <dc:creator><![CDATA[মতামত]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 07:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পশু-পাখির প্রতি আচরণ]]></title>
+            <description><![CDATA[প্রাণী নৈতিকতা আমাদের শেখায় যে প্রাণীরা কেবল কোনো বস্তুর মতো ব্যবহারযোগ্য বিষয় নয়, বরং তারা স্বতন্ত্র জীবন্ত সত্তা। মানুষের মতো জটিল চিন্তা বা ভাষার ক্ষমতা তাদের না থাকলেও তারা ব্যথা, ভয়,]]></description>
+            <link>https://samakal.com/opinion/article/368299/%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%AA%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%86%E0%A6%9A%E0%A6%B0%E0%A6%A3</link>
+            <guid isPermaLink="true">https://samakal.com/opinion/article/368299/%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%AA%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%86%E0%A6%9A%E0%A6%B0%E0%A6%A3</guid>
+            <dc:creator><![CDATA[মতামত]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 07:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সরকারের ৬ মাসের গতি ও অগ্রগতি হতাশাজনক: এবি পার্টি]]></title>
+            <description><![CDATA[সরকারের প্রথম ছয় মাসের কাজের গতি ও অগ্রগতি হতাশাজনক বলে মন্তব্য করেছে এবি পার্টি। তাদের অভিযোগ, বিএনপি সরকারে এসে ৩১ দফা ভুলে গেছে। সবার আগে বাংলাদেশ বলে বিএনপি সরকার দলীয়করণ, দ্রব্যমূল্য বৃদ্ধি, বিদ্যুৎ-গ্যাসের হাহাকার, ক্যাম্পাসে সন্ত্রাস ও অর্থনীতিকে আরও গভীর অনিশ্চয়তার দিকে ঠেলে দিয়েছে। গণভোটের রায় বাস্তবায়ন না করে জনগণের মতামতকে দলনের বার্তা দিচ্ছে]]></description>
+            <link>https://samakal.com/politics/article/368298/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A7%AC-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A6%95:-%E0%A6%8F%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF</link>
+            <guid isPermaLink="true">https://samakal.com/politics/article/368298/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A7%AC-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A6%95:-%E0%A6%8F%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF</guid>
+            <dc:creator><![CDATA[রাজনীতি]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 05:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পোশাক শ্রমিকদের বেতন পরিশোধে ডিজিটাল সুবিধা দেবে উপায়-ন্যাচারাল ইন্ডিগো]]></title>
+            <description><![CDATA[পোশাক শ্রমিকদের বেতন পরিশোধ আরও সহজ, দ্রুত ও নিরাপদ করতে একসঙ্গে কাজ করবে ইউনাইটেড কমার্শিয়াল ব্যাংক পিএলসি (ইউসিবি) পরিচালিত ইউসিবি ফিনটেক কোম্পানি লিমিটেড ‘উপায়’ ও দেশের অন্যতম তৈরি পোশাক প্রস্তুতকারক প্রতিষ্ঠান ন্যাচারাল ইন্ডিগো লিমিটেড। এ লক্ষ্যে সম্প্রতি প্রতিষ্ঠান দুটি একটি চুক্তি করেছে]]></description>
+            <link>https://samakal.com/economics/article/368297/%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8B</link>
+            <guid isPermaLink="true">https://samakal.com/economics/article/368297/%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8B</guid>
+            <dc:creator><![CDATA[অর্থনীতি]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 05:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিজ্ঞাপনে এআইয়ের ব্যবহার নিয়ে জেন এআই ক্রিয়েটিভ লার্নিং সেশন]]></title>
+            <description><![CDATA[বিজ্ঞাপনের দুনিয়ায় কৃত্রিম বুদ্ধিমত্তা (এআই) ব্যবহারের প্রবণতা দ্রুত বাড়ছে। এআইয়ের প্রসারের সঙ্গে বিজ্ঞাপনী সংস্থাগুলোর কাজের ধরনও বদলে যাচ্ছে। এই পরিবর্তনের সঙ্গে এজেন্সিগুলোকে পরিচিত করাতে অ্যাডভার্টাইজিং এজেন্সিজ অ্যাসোসিয়েশন অব বাংলাদেশ (এএএবি) এবং বাংলাদেশে গুগল ও টিকটকের অফিসিয়াল পার্টনার আলেফের যৌথ উদ্যোগে জেনারেটিভ এআই নিয়ে দিনব্যাপী বিশেষ সেশনের আয়োজন করা হয়েছে।]]></description>
+            <link>https://samakal.com/economics/article/368296/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%86%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9C%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8</link>
+            <guid isPermaLink="true">https://samakal.com/economics/article/368296/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%86%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9C%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8</guid>
+            <dc:creator><![CDATA[অর্থনীতি]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 05:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[উচ্ছেদ আতঙ্কে কোচ বর্মণরা, জমি হারানোর শঙ্কা অন্যদের]]></title>
+            <description><![CDATA[‘আমারা তো অত কিছু বুঝি না। কাম করি, নুন-মরিচ দিয়া ভাত খাই। কাম না করলে খাওন বন্ধ। নিজের তো জায়গা নাই। পোলাপান, নাতি লইয়া বনের জায়গায় বাপ-ঠাকুরদার আমলতে এই জঙ্গলে থাহি। অহন মাইনষে কয়, কিয়ের বলে পার্ক অইবো; আমগরে যাওন লাগবো গা। আরে মর জ্বালা! আমরা থাকমু কই! যামু কই! আমগর পার্ক-মার্ক লাগতো না। বনের মানুষ বনেই থাকমু বাপু।’ একটানে কথাগুলো বললেন ৮০ বছরের রূপালী বর্মণ। তাঁর কপালে চিন্তার ভাঁজ; দুই চোখে বিষাদ]]></description>
+            <link>https://samakal.com/whole-country/article/368295/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6-%E0%A6%86%E0%A6%A4%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%9A-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%B0%E0%A6%BE-%E0%A6%9C%E0%A6%AE%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0</link>
+            <guid isPermaLink="true">https://samakal.com/whole-country/article/368295/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6-%E0%A6%86%E0%A6%A4%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%9A-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%B0%E0%A6%BE-%E0%A6%9C%E0%A6%AE%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0</guid>
+            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 05:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ডাকসুর আয়োজনে চীনা প্রতিষ্ঠানে চাকরির সুযোগ]]></title>
+            <description><![CDATA[চীনা প্রতিষ্ঠানে চাকরির সুযোগ নিয়ে ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের (ডাকসু) আয়োজনে অনুষ্ঠিত হয়েছে ‘সিনো-বাংলা ডে ২০২৬’। গতকাল সোমবার ঢাকা বিশ্ববিদ্যালয়ের ছাত্র-শিক্ষক কেন্দ্র (টিএসসি) প্রাঙ্গণে দিনব্যাপী এই চাকরি মেলা অনুষ্ঠিত হয়।]]></description>
+            <link>https://samakal.com/bangladesh/article/368294/%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A7%81%E0%A6%B0-%E0%A6%86%E0%A7%9F%E0%A7%8B%E0%A6%9C%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97</link>
+            <guid isPermaLink="true">https://samakal.com/bangladesh/article/368294/%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A7%81%E0%A6%B0-%E0%A6%86%E0%A7%9F%E0%A7%8B%E0%A6%9C%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97</guid>
+            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 05:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[এলিফ্যান্ট রোডে শপিংব্যাগ থেকে ককটেল সদৃশ ৪টি বস্তু উদ্ধার]]></title>
             <description><![CDATA[‎রাজধানী এলিফ্যান্ট রোডে শপিংব্যাগের ভেতর থেকে চারটি ককটেল সদৃশ বস্তু উদ্ধার করেছে পুলিশ। সোমবার রাত ১০টার দিকে এলিফ্যান্ট রোডের বাটা সিগনাল মোড়ে নিউমার্কেট যাওয়ার রাস্তা থেকে বস্তুগুলো দেখে পুলিশকে খবর দিলে রাত পৌনে ১১টার দিকে সিটিটিসির বোম্ব ডিসপোজাল ইউনিট এগুলো উদ্ধার করে। তবে রাত ১টা পর্যন্ত বস্তুগুলো নিস্ক্রিয় করা সম্ভব হয়নি]]></description>
@@ -3928,86 +4008,6 @@
             <guid isPermaLink="true">https://samakal.com/politics/article/367767/%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AC-%E0%A6%A8%E0%A6%BE:-%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6</guid>
             <dc:creator><![CDATA[রাজনীতি]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 21:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[বাংলাদেশের বাড়তি ডিজেল চাহিদা বিবেচনা করবে ভারত: জয়সোয়াল]]></title>
-            <description><![CDATA[বাংলাদেশের জ্বালানি সংকটের মধ্যে অতিরিক্ত ডিজেল সরবরাহের অনুরোধ বিবেচনা করবে ভারত। তবে এ ক্ষেত্রে নিজেদের চাহিদা, পরিশোধন সক্ষমতা ও দেশে ডিজেলের প্রাপ্যতা বিবেচনায় নেওয়া হবে বলে জানিয়েছে নয়াদিল্লি।]]></description>
-            <link>https://samakal.com/international/article/367766/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%A4%E0%A6%BF-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4:-%E0%A6%9C%E0%A7%9F%E0%A6%B8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B2</link>
-            <guid isPermaLink="true">https://samakal.com/international/article/367766/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%A4%E0%A6%BF-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4:-%E0%A6%9C%E0%A7%9F%E0%A6%B8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B2</guid>
-            <dc:creator><![CDATA[বিশ্ব]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 21:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[সামিটের টার্মিনাল চালু, গ্যাস সরবরাহ বাড়ছে]]></title>
-            <description><![CDATA[টানা সংকটের মধ্যে জাতীয় গ্রিডে গ্যাস সরবরাহ বেড়েছে। মহেশখালীর সামিট এলএনজি টার্মিনাল থেকে আজ শুক্রবার সন্ধ্যা ৬টা ১০ মিনিটে আবার গ্যাস সরবরাহ শুরু হয়েছে। শুরুতে প্রায় ১১ কোটি ঘনফুট গ্যাস দেওয়া হচ্ছে। ধাপে ধাপে সরবরাহ বাড়িয়ে আজ মধ্যরাত ২টার মধ্যে তা প্রায় ৫৫ কোটি ঘনফুটে নেওয়ার আশা করছে বলে জানিয়েছে সামিট কর্তৃপক্ষ।]]></description>
-            <link>https://samakal.com/bangladesh/article/367765/%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87</link>
-            <guid isPermaLink="true">https://samakal.com/bangladesh/article/367765/%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87</guid>
-            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[সামিটের টার্মিনাল চালু, বন্ধ হয়েছে এক্সিলারেট]]></title>
-            <description><![CDATA[টানা সংকটের মধ্যে জাতীয় গ্রিডে গ্যাস সরবরাহ বেড়েছে। মহেশখালীর সামিট এলএনজি টার্মিনাল থেকে আজ শুক্রবার সন্ধ্যা ৬টা ১০ মিনিটে আবার গ্যাস সরবরাহ শুরু হয়েছে। শুরুতে প্রায় ১১ কোটি ঘনফুট গ্যাস দেওয়া হচ্ছে। ধাপে ধাপে সরবরাহ বাড়িয়ে আজ মধ্যরাত ২টার মধ্যে তা প্রায় ৫৫ কোটি ঘনফুটে নেওয়ার আশা করছে বলে জানিয়েছে সামিট কর্তৃপক্ষ।]]></description>
-            <link>https://samakal.com/bangladesh/article/367765/%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%9F</link>
-            <guid isPermaLink="true">https://samakal.com/bangladesh/article/367765/%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%9F</guid>
-            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[স্পোর্টসকে অর্থনীতির মূলধারায় নিয়ে আসার উদ্যোগ নেওয়া হচ্ছে: অর্থমন্ত্রী]]></title>
-            <description><![CDATA[অর্থ এবং পরিকল্পনামন্ত্রী আমির খসরু মাহমুদ চৌধুরী বলেছেন, ‘খেলাধুলাকে শুধু বিনোদন হিসেবে দেখলে হবে না; এটিকে একটি সম্ভাবনাময় অর্থনৈতিক কর্মকাণ্ড ও ক্যারিয়ার হিসেবেও গড়ে তুলতে হবে। ক্রীড়াঙ্গনের সঙ্গে সরাসরি ও পরোক্ষভাবে লাখ লাখ মানুষ সম্পৃক্ত। তাই, স্পোর্টসকে অর্থনীতির মূলধারায় নিয়ে আসার উদ্যোগ নেওয়া হচ্ছে।’]]></description>
-            <link>https://samakal.com/whole-country/article/367764/%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87:-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/367764/%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87:-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ইন্দোনেশিয়ায় সাতশ’র বেশি রাষ্ট্রীয় প্রতিষ্ঠান বন্ধের ঘোষণা]]></title>
-            <description><![CDATA[চলতি বছরের শেষ নাগাদ ৭৫০টি রাষ্ট্রীয় প্রতিষ্ঠান বন্ধের ঘোষণা দিয়েছেন ইন্দোনেশিয়ার প্রেসিডেন্ট প্রাবোও সুবিয়ান্তো। শুক্রবার সার্বিক পরিস্থিতি নিয়ে প্রেসিডেন্টের ভাষণে তিনি বলেন, দেশে বিপুল প্রাকৃতিক সম্পদ থাকার পরও জনগণ যথেষ্ট উপকৃত হচ্ছে না।]]></description>
-            <link>https://samakal.com/international/article/367763/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A6%B6%E2%80%99%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE</link>
-            <guid isPermaLink="true">https://samakal.com/international/article/367763/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A6%B6%E2%80%99%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE</guid>
-            <dc:creator><![CDATA[বিশ্ব]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[গণভোটের রায়কে খণ্ডিতভাবে বাস্তবায়নের সুযোগ নেই: গোলাম পরওয়ার]]></title>
-            <description><![CDATA[জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার বলেছেন, গণভোটের রায় খণ্ডিতভাবে বাস্তবায়নের সুযোগ নেই। নিজের দেওয়া ভোটের একটি অংশ মেনে অন্য অংশ অস্বীকার করা যায় না।]]></description>
-            <link>https://samakal.com/whole-country/article/367762/%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%95%E0%A7%87-%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%A4%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%87:-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%AA%E0%A6%B0%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/367762/%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%95%E0%A7%87-%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%A4%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%87:-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%AA%E0%A6%B0%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘ওরা ১৫ জন মিইল্যা আমার বাপেরে কুপাইছে, আমরা ২ ভাই ওরে কুপাইছি’]]></title>
-            <description><![CDATA[ময়মনসিংহ নগরের মাসকান্দা এলাকায় কম্পিউটার দোকানের কর্মী মো. রাব্বি (২৫) হত্যার দায় স্বীকার করেছেন মামলার প্রধান আসামি আবদুল খালেক (২৭)। র‍্যাবের হাতে গ্রেপ্তারের পর গণমাধ্যমকর্মীদের সামনে তিনি ক্ষোভ ও দম্ভ প্রকাশ করে বলেন, ‘আমি নিজে ভালা মানুষ। আমার কি আজকে কথা আছিন এইনে আওয়ার (আসার)। আপনেগর কাজ যদি আপনেরা করতেন, তাহলে কি আমার আজকে এই জায়গায় আওয়া লাগে। আঙ্গর কি কইলজা নাই। আমার বাপেরে ওরা ১৫ জন মিইল্যা কুপাইছে, আর আমরা ২ ভাই মিইল্যা ওরে কুপাইছি। আমি সন্ত্রাসী চাঁদাবাজ মারছি, ভালা মানুষ মারি নাই।]]></description>
-            <link>https://samakal.com/whole-country/article/367761/%E2%80%98%E0%A6%93%E0%A6%B0%E0%A6%BE-%E0%A7%A7%E0%A7%AB-%E0%A6%9C%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%87%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%9B%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A7%A8-%E0%A6%AD%E0%A6%BE%E0%A6%87-%E0%A6%93%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%9B%E0%A6%BF%E2%80%99</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/367761/%E2%80%98%E0%A6%93%E0%A6%B0%E0%A6%BE-%E0%A7%A7%E0%A7%AB-%E0%A6%9C%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%87%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%9B%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A7%A8-%E0%A6%AD%E0%A6%BE%E0%A6%87-%E0%A6%93%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%9B%E0%A6%BF%E2%80%99</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[হাম ও উপসর্গে মৃত্যু ৯০০ ছুঁইছুঁই]]></title>
-            <description><![CDATA[হামের উপসর্গে দেশে আরও চারজনের মৃত্যু হয়েছে। শুক্রবার সকাল আটটা পর্যন্ত আগের ২৪ ঘণ্টায় তাদের মৃত্যু হয়। সিলেট বিভাগে দুজন এবং ঢাকা ও চট্টগ্রাম বিভাগে একজন করে মারা গেছেন। শুক্রবার স্বাস্থ্য অধিদপ্তরের হেলথ ইমার্জেন্সি অপারেশন সেন্টার ও কন্ট্রোল রুমের সংবাদ বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।]]></description>
-            <link>https://samakal.com/bangladesh/article/367760/%E0%A6%B9%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%89%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A7%AF%E0%A7%A6%E0%A7%A6-%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%87%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%87</link>
-            <guid isPermaLink="true">https://samakal.com/bangladesh/article/367760/%E0%A6%B9%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%89%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A7%AF%E0%A7%A6%E0%A7%A6-%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%87%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%87</guid>
-            <dc:creator><![CDATA[বাংলাদেশ]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[সহমর্মী শিক্ষকই মাধ্যমিক রূপান্তরের মূল চাবিকাঠি]]></title>
-            <description><![CDATA[আমাদের শিক্ষাব্যবস্থার সবচেয়ে বড় চ্যালেঞ্জ সম্ভবত অবকাঠামো নয়, বরং মানসিক দূরত্ব। বহু বিদ্যালয়ে দেখা যায়, শিক্ষার্থী ও শিক্ষকের মধ্যে একটি অদৃশ্য দেয়াল তৈরি হয়েছে। শিক্ষক পাঠদান করেন, শিক্ষার্থী শোনে; শিক্ষক প্রশ্ন করেন, শিক্ষার্থী উত্তর দেয়, কিন্তু এর মধ্য দিয়ে হৃদয়ের কোনো সংযোগ তৈরি হয় না। অথচ শিক্ষা কেবল তথ্য স্থানান্তরের প্রক্রিয়া নয়; এটি একটি মানবিক সম্পর্কের ওপর দাঁড়িয়ে থাকা রূপান্তরমূলক যাত্রা। একজন শিক্ষার্থী যখন বলে, ‘স্যার, আমাকে বুঝুন’– সেই আহ্বান কেবল পাঠ বোঝার নয়, নিজেকে বোঝানোর আকুতি। এই জায়গাটিই আমাদের নতুন শিক্ষাক্রমের সাফল্য-ব্যর্থতার প্রকৃত পরীক্ষাক্ষেত্র।]]></description>
-            <link>https://samakal.com/chaturango/article/367759/%E0%A6%B8%E0%A6%B9%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A6%BF</link>
-            <guid isPermaLink="true">https://samakal.com/chaturango/article/367759/%E0%A6%B8%E0%A6%B9%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A6%BF</guid>
-            <dc:creator><![CDATA[চতুরঙ্গ]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[নিরাপত্তা ত্রুটিতে মামলার এক মাস পরই ফেরদৌস স্টিলে বিষাক্ত গ্যাসে ৯ মৃত্যু]]></title>
-            <description><![CDATA[চট্টগ্রামের সীতাকুণ্ডের ভাটিয়ারীতে ফেরদৌস স্টিল শিপ ব্রেকিং ইয়ার্ডে বিষাক্ত গ্যাসে নয়জনের মৃত্যুর ঘটনায় প্রতিষ্ঠানটির নিরাপত্তাব্যবস্থা নিয়ে প্রশ্ন উঠেছে। কারণ, দুর্ঘটনার মাত্র এক মাস আগে পেশাগত নিরাপত্তা নিশ্চিত না করার অভিযোগে প্রতিষ্ঠানটির বিরুদ্ধে মামলা করেছিল কলকারখানা ও প্রতিষ্ঠান পরিদর্শন অধিদপ্তর (ডিআইএফই)।]]></description>
-            <link>https://samakal.com/whole-country/article/367758/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%AA%E0%A6%B0%E0%A6%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A6%E0%A7%8C%E0%A6%B8-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A7%AF-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81</link>
-            <guid isPermaLink="true">https://samakal.com/whole-country/article/367758/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%AA%E0%A6%B0%E0%A6%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A6%E0%A7%8C%E0%A6%B8-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A7%AF-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81</guid>
-            <dc:creator><![CDATA[সারাদেশ]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
